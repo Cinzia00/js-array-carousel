@@ -19,7 +19,7 @@ img {
 .arrow {
     position: absolute;
     font-size: 40px;
-    color: white;
+    /* color: white; */
 }
 
 .arrow-left {
